@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GordumYedim.API.props" />
+</Project>
